@@ -1,0 +1,15 @@
+# UK Streaming Services – DNS Ad Blocklist
+# Compatible with Pi-hole
+# Targeted for ITVX, Channel 4, My5, UKTV Play, STV Player
+# Safe for Fire TV / Android TV when applied via Pi-hole groups
+
+ads.itv.com
+stats.itv.com
+ads.channel4.com
+cdn.ss.footprint.net
+ads.my5.tv
+ads.uktvplay.co.uk
+ads.stv.tv
+imasdk.googleapis.com
+securepubads.g.doubleclick.net
+ad.doubleclick.net
