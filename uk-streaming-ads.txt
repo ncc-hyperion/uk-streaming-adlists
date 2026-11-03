@@ -13,3 +13,12 @@ ads.stv.tv
 imasdk.googleapis.com
 securepubads.g.doubleclick.net
 ad.doubleclick.net
+
+#############
+
+itv-ads.aimatch.com
+tom.itv.com
+secure.pes.itv.com
+europe-west1-itv-ds-prd.cloudfunctions.net
+packaged-shortform.cloudfront.prd.ottstream.itv.com
+profile.prd.user.itv.com
